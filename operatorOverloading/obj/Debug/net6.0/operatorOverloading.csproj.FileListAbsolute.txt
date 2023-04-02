@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloading\operatorOverloading\bin\Debug\net6.0\operatorOverloading.exe
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloading\operatorOverloading\bin\Debug\net6.0\operatorOverloading.deps.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloading\operatorOverloading\bin\Debug\net6.0\operatorOverloading.runtimeconfig.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloading\operatorOverloading\bin\Debug\net6.0\operatorOverloading.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloading\operatorOverloading\bin\Debug\net6.0\operatorOverloading.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloading\operatorOverloading\obj\Debug\net6.0\operatorOverloading.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloading\operatorOverloading\obj\Debug\net6.0\operatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloading\operatorOverloading\obj\Debug\net6.0\operatorOverloading.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloading\operatorOverloading\obj\Debug\net6.0\operatorOverloading.AssemblyInfo.cs
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloading\operatorOverloading\obj\Debug\net6.0\operatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloading\operatorOverloading\obj\Debug\net6.0\operatorOverloading.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloading\operatorOverloading\obj\Debug\net6.0\refint\operatorOverloading.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloading\operatorOverloading\obj\Debug\net6.0\operatorOverloading.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloading\operatorOverloading\obj\Debug\net6.0\operatorOverloading.genruntimeconfig.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloading\operatorOverloading\obj\Debug\net6.0\ref\operatorOverloading.dll
